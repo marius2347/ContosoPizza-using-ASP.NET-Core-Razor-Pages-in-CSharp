@@ -46,7 +46,7 @@ To run this project locally:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/marius2347/ContosoPizza-using-ASP.NET-Core-Razor-Pages-in-CSharp.git](https://github.com/marius2347/ContosoPizza-using-ASP.NET-Core-Razor-Pages-in-CSharp.git)
+    git clone https://github.com/marius2347/ContosoPizza-using-ASP.NET-Core-Razor-Pages-in-CSharp.git
     ```
 2.  Navigate to the project directory.
 3.  Run the application:
@@ -60,4 +60,3 @@ To run this project locally:
 If you have any questions about this project, feel free to reach out:
 
 * **Email:** [mariusc0023@gmail.com](mailto:mariusc0023@gmail.com)
-* **GitHub:** [marius2347](https://github.com/marius2347)
